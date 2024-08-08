@@ -8,7 +8,7 @@ def simulate_sensor_data():
     return temperature, humidity
 
 # ThingSpeak API parameters
-THINGSPEAK_API_KEY = 'PIOG6DNNCANLPQDG'
+THINGSPEAK_API_KEY = '######################'
 THINGSPEAK_URL = 'https://api.thingspeak.com/update'
 
 while True:
